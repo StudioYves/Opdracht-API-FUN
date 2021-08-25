@@ -1,0 +1,19 @@
+body {
+    background-color: blueviolet;
+}
+
+h1 {
+    color: yellow;
+}
+
+h2 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+#list {
+    list-style: none;
+}
